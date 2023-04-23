@@ -1,0 +1,1 @@
+# code_cluase_Plagiarism_Checker_in_Python_project
